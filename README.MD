@@ -1,5 +1,5 @@
-# Título do Projeto
-##  Breve descrição do projeto
+# repositório para acumular códigos e documentos relacionados aos Bootcamp IGTI
+##  Cursos de: Ciência de dados Inteligência Artificial e Python
 
 <br>
   <div align="center">
@@ -30,14 +30,8 @@ Visite meu WebSite [https://www.enedino.com.br](https://www.enedino.com.br)
 
 ## Objetivo:
 
-Lista dos objetivos
+Organizar os projetos e anotações referentes aos cursos IGTI - XP
 
-
-
-# Próximas features 
-
-
-## Utilização do programa 
 
 <br>
 _______________________
